@@ -4,6 +4,6 @@ repository for a local jira datacenter configuration with two nodes and treafik 
 
 ## Usage:
 
-- replace <local-ip-address> with your local ip address
+- replace `<local-ip-address>` with your **local ip address**
 - start docker container using `docker compose up -d`
 - do the initial Setup of Jira
